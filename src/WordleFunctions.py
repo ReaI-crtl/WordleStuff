@@ -1,4 +1,4 @@
-"""Functions to apply wordle rules"""
+"""Functions to apply wordle rules and other stuff"""
 
 def compareWords(guess, answer):
     """Compares two words and returns a list of results
